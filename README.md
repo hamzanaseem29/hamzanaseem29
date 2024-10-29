@@ -10,10 +10,6 @@
 
 - 🔭 I’m currently working on **Freelance Projects**
 
-- 🌱 I’m currently learning **Mern**
-
-- 🤝 I’m looking for help with **Nodejs Expressjs MongoDB**
-
 - 👨‍💻 All of my projects are available at [https://hamzanaseem.vercel.app/](https://hamzanaseem.vercel.app/)
 
 - 💬 Ask me about **React, Nextjs**
