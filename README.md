@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React, Nextjs<br>👯 I’m looking to collaborate on Freelance projects<br>🤝 I’m looking for help with Node, Express<br>🌱 I’m currently learning Node, Express<br>💬 Ask me about Frontend<br>
+🔭 I’m currently working on React, Nextjs, Expressjs, Nodejs<br>👯 I’m looking to collaborate on Freelance projects<br>🤝<br>💬 Ask me about Frontend & Backend<br>
 
 
 ## 🌐 Socials:
