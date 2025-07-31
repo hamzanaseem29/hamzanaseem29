@@ -34,8 +34,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=tabish5858&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=Tabish5858&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamzanaseem29&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=hamzanaseem29&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=Tabish5858&hide=html,css,java,handlebars&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ---
